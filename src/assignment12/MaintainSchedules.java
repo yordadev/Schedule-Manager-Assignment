@@ -11,7 +11,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Sean O'Connell
+ * @author Devitgg
  */
 public class MaintainSchedules {
 
