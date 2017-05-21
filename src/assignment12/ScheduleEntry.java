@@ -28,7 +28,7 @@ import java.util.Scanner;
  */
 class ScheduleEntry {
 
-    String dateOfWork,
+    String  dateOfWork,
             location,
             startTime,
             endTime,
