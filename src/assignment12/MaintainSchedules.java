@@ -49,8 +49,7 @@ public class MaintainSchedules {
 
         while (!userChoice.equals("Exit Program")) {
             userChoice = getUserChoice();
-            numEntries = performUserChoice(userChoice, theSchedules,
-                    numEntries);
+            numEntries = performUserChoice(userChoice, theSchedules, numEntries);
         }
         System.exit(0); //Bye Felica
     }
